@@ -1,10 +1,10 @@
-#911 Calls Data Analysis
+1. 911 Calls Data Analysis
 
 This is a data exploration and visualization project analyzing 911 emergency call data. The goal is to uncover meaningful insights such as when and where emergency calls are made most frequently, and the common reasons behind them.
 
 ---
 
-##Dataset
+2. Dataset
 
 The dataset includes:
 - **Timestamp** of each call
@@ -14,7 +14,7 @@ The dataset includes:
 
 ---
 
-##Objectives
+3. Objectives
 
 - Understand the distribution of 911 calls by type (EMS, Fire, Traffic).
 - Visualize call trends by hour, day, and month.
@@ -23,7 +23,7 @@ The dataset includes:
 
 ---
 
-##Key Findings
+4. Key Findings
 
 - EMS is the most common reason for calls, followed by Traffic and Fire.
 - Call volume peaks during the afternoon and early evening.
@@ -32,7 +32,7 @@ The dataset includes:
 
 ---
 
-##Tools & Libraries Used
+5. Tools & Libraries Used
 
 - Python (Pandas, NumPy)
 - Matplotlib & Seaborn
